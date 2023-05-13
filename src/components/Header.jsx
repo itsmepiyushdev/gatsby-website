@@ -77,7 +77,7 @@ const [isToggleOpen, setIsToggleOpen] = useState(false)
                   aria-current="page"
                   aria-haspopup="false"
                   tabIndex="0"
-                  className="flex items-center gap-2 py-4 text-orange-500 transition-colors duration-300 hover:text-orange-600 focus:bg-orange-50 focus:outline-none focus-visible:outline-none lg:px-8"
+                  className="flex items-center gap-2 py-4 transition-colors duration-300 hover:text-orange-600 focus:bg-orange-50 focus:outline-none focus-visible:outline-none lg:px-8"
                   to="/features"
                 >
                   <span>Features</span>
